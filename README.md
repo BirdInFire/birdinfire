@@ -9,4 +9,4 @@
 
 # Links
 
-<img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/thm.png" width="35"> [TryHackMe](https://tryhackme.com/p/birdinfire)
+<a href="https://tryhackme.com/p/birdinfire" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/thm.png" width="35"></a>
