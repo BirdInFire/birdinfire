@@ -1,5 +1,7 @@
 # <img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/223.gif" width="35"> About Me:
-I'm currently working on theme for firefox even if i don't use it<br>I really love cybersecurity<br>i'm learning cybersecurity skill with BeCode
+ - I'm currently working on theme for firefox even if i don't use it<br>
+ - I really love cybersecurity<br>
+ - i'm learning cybersecurity skill with BeCode
 
 
 # <img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/1.gif" width="25"> Tech Stack:
