@@ -9,4 +9,4 @@
 
 # Links
 
-[TryHackMe](https://tryhackme.com/p/birdinfire)
+<img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/1.gif" width="35"> [TryHackMe](https://tryhackme.com/p/birdinfire)
