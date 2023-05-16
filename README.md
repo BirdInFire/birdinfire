@@ -9,5 +9,6 @@
 
 # <img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/3IsN.gif" height="25"> Links
 
-
-<a href="https://tryhackme.com/p/birdinfire" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/thm2.png" height="55"></a>
+<a href="https://tryhackme.com/p/birdinfire" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/thm2.png" height="55"></a> <img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/session.png" height="45">
+<br><br>
+### Session ID : `058e26d884e08a05ca111dbb8d9f8d9431b1f4b5742d4dff720ab69167291bda01`
