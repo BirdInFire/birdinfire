@@ -1,4 +1,5 @@
 # <img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/223.gif" width="25"> About Me:
+ <img src="https://tryhackme-badges.s3.amazonaws.com/birdinfire.png" alt="TryHackMe">\
  🔭 I'm currently working on theme for firefox even if i don't use it<br>
  🚀 I really love cybersecurity<br>
  🌱 i'm learning cybersecurity skill with BeCode
