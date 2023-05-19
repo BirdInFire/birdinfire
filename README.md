@@ -1,9 +1,8 @@
 <p style="text-align: center;"><img src="./pics/hack.gif"></p>
 
 # <img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/223.gif" width="25"> About Me:
-  🔭 I'm currently working on theme for firefox even if i don't use it<br>
- 🚀 I really love cybersecurity<br>
- 🌱 i'm learning cybersecurity skill with BeCode
+ 🚀 This account is secured with FIDO2 and sign all the commit, if one of my commit is not signed it's not me<br>
+ 🌱 I'm learning cybersecurity skill with BeCode
 
 
 # <img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/1.gif" width="25"> Tech Stack:
