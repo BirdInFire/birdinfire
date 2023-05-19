@@ -3,6 +3,7 @@
 # <img src="./pics/223.gif" width="25"> About Me:
  🚀 This account is secured with FIDO2 and sign all the commit, if one of my commit is not signed it's not me<br>
  🌱 I'm learning cybersecurity skill with BeCode
+ 🚀 You can ask to join my organisation that aim to allow all user who use Session and Signal (add me on session to ask)
 
 
 # <img src="./pics/1.gif" width="25"> Tech Stack:
