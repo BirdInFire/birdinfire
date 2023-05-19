@@ -1,4 +1,4 @@
-<p style="text-align: center;"><img src="./pics/hack.gif" width="600"></p>
+<p style="text-align: center;"><img src="./pics/hack.gif"></p>
 
 # <img src="https://raw.githubusercontent.com/BirdInFire/birdinfire/main/pics/223.gif" width="25"> About Me:
   🔭 I'm currently working on theme for firefox even if i don't use it<br>
