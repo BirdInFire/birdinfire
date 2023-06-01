@@ -7,5 +7,5 @@
 
 # <img src="./pics/3IsN.gif" height="25"> Links
 
-<a href="https://codeberg.org/birdinfire" target="_blank" rel="noopener"><img src="./pics/codeberg.svg" height="45"></a><a href="https://tryhackme.com/p/birdinfire" target="_blank" rel="noopener"><img src="./pics/thm2.png" height="55"></a>
+<a href="https://gitlab.gnome.org/birdinfire" target="_blank" rel="noopener"><img src="./pics/gnome.png" height="45"></a><a href="https://gitlab.com/BirdInFire1" target="_blank" rel="noopener"><img src="./pics/gitlab.png" height="45"></a><a href="https://codeberg.org/birdinfire" target="_blank" rel="noopener"><img src="./pics/codeberg.svg" height="45"></a><a href="https://tryhackme.com/p/birdinfire" target="_blank" rel="noopener"><img src="./pics/thm2.png" height="55"></a>
 <br>
