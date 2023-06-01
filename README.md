@@ -1,5 +1,3 @@
-<p style="text-align: center;"><img src="./pics/hack.gif"></p>
-
 # <img src="./pics/223.gif" width="25"> About Me:
  🚀 This account is secured with FIDO2 and sign all the commit, if one of my commit is not signed it's not me<br>
  🌱 I'm learning cybersecurity skill with BeCode<br>
