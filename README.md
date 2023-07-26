@@ -1,5 +1,5 @@
 # <img src="./pics/223.gif" width="25"> About Me:
- 🚀 This account is secured with Passkey + FIDO2 and sign all the commit, if one of my commit is not signed it's not me<br>
+ 🚀 This account is secured with Passkey and sign all the commit, if one of my commit is not signed it's not me<br>
  🌱 I'm learning cybersecurity skill with BeCode<br>
 
 # <img src="./pics/1.gif" width="25"> Tech Stack:
