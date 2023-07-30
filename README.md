@@ -1,7 +1,6 @@
 # <img src="./pics/223.gif" width="25"> About Me:
  🚀 This account is secured with Passkey and sign all the commit, if one of my commit is not signed it's not me<br>
  🌱 I'm learning cybersecurity skill with BeCode<br>
- ⚠ If you contact me trough telegram (t.me link) i only answer to secret chat !<br>
  🔒 You can securely contact me trougt my session ID : 05f9e918bd12f3317fe0f23a4409789e357297d887adbf5b5709f2fcbb5decaf2f
 
 # <img src="./pics/1.gif" width="25"> Tech Stack:
