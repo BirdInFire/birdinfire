@@ -9,5 +9,4 @@
 # <img src="./pics/3IsN.gif" height="25" width="25"> Links
 
 <a href="https://tryhackme.com/p/birdinfire" target="_blank" rel="noopener"><img src="./pics/thm2.png" height="55"></a>
-<a rel="me" href="https://mastodon.social/@birdinfire"><img src="./pics/mstdn.png" height="55"></a>
 <br>
