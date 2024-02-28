@@ -8,3 +8,7 @@
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/comers09p/297FF11395AB8F2D?sharingId=11654C4207AAA746" target="_blank" rel="noopener noreferrer"><img width="150px" src="./pics/sc900.svg" alt="SC-900"></a>
 <br>
+<a rel="me" href="https://infosec.exchange/@wednesday" target="_blank" rel="noopener noreferrer">@wednesday (Mastodon)</a>
+<br>
+<a href="https://wednesday.bacq.pro" target="_blank" rel="noopener noreferrer">BlueSky</a>
+<br>
