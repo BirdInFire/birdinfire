@@ -11,5 +11,3 @@
 <br>
 <a rel="me" href="https://redirector.bacq.pro?name=mastodon&v=1" target="_blank" rel="noopener noreferrer">@wednesday (Mastodon)</a>
 <br>
-<a href="https://redirector.bacq.pro?name=bluesky&v=1" target="_blank" rel="noopener noreferrer">BlueSky</a>
-<br>
